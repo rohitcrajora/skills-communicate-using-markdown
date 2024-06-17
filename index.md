@@ -10,6 +10,9 @@
 
 
 # <h6>var myVar = "Hello, world!";<h6>
+``` javascript
+var myVar = "Hello, world!";
+```
 
 
 
