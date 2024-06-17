@@ -5,6 +5,7 @@
 # <h5>Hello, I am Rohit</h5>
 # <h6>Hello, I am Rohit</h6>
 
+# <h6>![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)<h6>
 
 
 
