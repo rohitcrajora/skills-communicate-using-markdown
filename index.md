@@ -14,6 +14,10 @@
 var myVar = "Hello, world!";
 ```
 
+# <h5>- [ ] Turn on GitHub Pages<h5>
+# <h5>- [ ] Outline my portfolio<h5>
+# <h5>- [ ] Introduce myself to the world<h5>
+
 
 
 
